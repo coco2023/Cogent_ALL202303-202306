@@ -1,0 +1,19 @@
+[1] https://harryho.github.io/projects/angular-crm/
+https://github.com/harryho/ng-crm
+
+[2] https://www.radzen.com/documentation/crm-introduction/  complex
+https://github.com/radzenhq/radzen-examples/tree/master/CRMDemo
+
+[3] https://github.com/kaansen57/Crm-Lite  too simple
+
+[4] https://github.com/MoritzGeorgy95/Angular-CRM no local too simple 
+
+[5] https://github.com/Akash-goyal-github/Inventory-Management-System can not run but the document is good: spring security + angular
+
+[6] https://github.com/zhulinn/SpringBoot-Angular7-Online-Shopping-Store   SpringBoot-Angular7-Online-Shopping-Store  good!
+
+[7] https://github.com/davemaharshi7/E-commerce-Website-Angular good!
+
+[8] https://github.com/FE-free/fc-angular   (https://fe-free.github.io/fc-angular/index.html)  can run in local
+
+[9] https://github.com/java668/ox-admin (http://oxadmin.java668.com/) 但用的是vue
